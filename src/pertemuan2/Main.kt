@@ -1,7 +1,13 @@
-package pertemuan2
+package pertemuan1
 
 import tambah
 
 fun main(args: Array<String>) {
-    6.tambah(5)
+    15.tambah(10)
+    jumlah(15, 10)
+}
+
+fun jumlah(x: Int = 0, y: Int = 0) {
+    val hasilJumlah = x.tambah(y)
+    println("Hasil $x + $y = $hasilJumlah")
 }

@@ -1,4 +1,4 @@
-package pertemuan2
+package pertemuan3
 
 fun main(args: Array<String>) {
     //menampilkan data dari sebuah List pada console

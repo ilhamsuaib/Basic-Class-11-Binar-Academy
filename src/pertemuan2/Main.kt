@@ -1,4 +1,4 @@
-package pertemuan1
+package pertemuan2
 
 import tambah
 

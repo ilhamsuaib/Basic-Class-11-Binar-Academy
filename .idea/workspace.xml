@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ab71e8-b133-440e-9ac7-bb6878d11002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pertemuan2/ArrayMain.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstKotlin/META-INF/MyFirstKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/META-INF/MyFirstKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstKotlin/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pertemuan1/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pertemuan1/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pertemuan2/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pertemuan2/Other.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,32 +15,33 @@
     <session id="-1783281784">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="kt" value="11" />
+          <entry key="kt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="Kotlin" value="11" />
+          <entry key="Kotlin" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="3420" />
+          <entry key="kt" value="5863" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="3420" />
+          <entry key="Kotlin" value="5863" />
         </counts>
       </usages-collector>
     </session>
@@ -54,19 +49,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pertemuan2/ArrayMain.kt">
+        <entry file="file://$PROJECT_DIR$/src/pertemuan4/ConditionMain.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pertemuan2/ListMain.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="351">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#loopAndCondition#0" />
+                <element signature="n#!!block;n#whenCondition#0" />
+                <element signature="n#!!block;n#withTwoCondition#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,15 +83,17 @@
         <option value="$PROJECT_DIR$/src/IntExt.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan2/Other.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan2/Main.kt" />
-        <option value="$PROJECT_DIR$/src/pertemuan2/ListMain.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan2/ArrayMain.kt" />
+        <option value="$PROJECT_DIR$/src/pertemuan2/ListMain.kt" />
+        <option value="$PROJECT_DIR$/src/pertemuan3/ListMain.kt" />
+        <option value="$PROJECT_DIR$/src/pertemuan4/ConditionMain.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="726" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -110,8 +103,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,17 +119,20 @@
               <item name="MyFirstKotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstKotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pertemuan2" type="462c0819:PsiDirectoryNode" />
+              <item name="pertemuan4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549635887522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550071547650" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -157,56 +151,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="pertemuan1.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.pertemuan4.ConditionMainKt">
+    <configuration name="pertemuan2.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MyFirstKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="pertemuan1.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="pertemuan2.MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pertemuan2.ArrayMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="pertemuan3.ArrayMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MyFirstKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="pertemuan2.ArrayMainKt" />
+      <option name="MAIN_CLASS_NAME" value="pertemuan3.ArrayMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pertemuan2.ListMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="pertemuan3.ListMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="MyFirstKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="pertemuan2.ListMainKt" />
+      <option name="MAIN_CLASS_NAME" value="pertemuan3.ListMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pertemuan4.ConditionMainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="pertemuan4.ConditionMainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.pertemuan1.MainKt" />
-      <item itemvalue="Kotlin.pertemuan2.ArrayMainKt" />
-      <item itemvalue="Kotlin.pertemuan2.ListMainKt" />
+      <item itemvalue="Kotlin.pertemuan2.MainKt" />
+      <item itemvalue="Kotlin.pertemuan3.ArrayMainKt" />
+      <item itemvalue="Kotlin.pertemuan3.ListMainKt" />
+      <item itemvalue="Kotlin.pertemuan4.ConditionMainKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.pertemuan2.ArrayMainKt" />
-        <item itemvalue="Kotlin.pertemuan2.ListMainKt" />
-        <item itemvalue="Kotlin.pertemuan1.MainKt" />
+        <item itemvalue="Kotlin.pertemuan4.ConditionMainKt" />
+        <item itemvalue="Kotlin.pertemuan3.ArrayMainKt" />
+        <item itemvalue="Kotlin.pertemuan3.ListMainKt" />
+        <item itemvalue="Kotlin.pertemuan2.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +236,7 @@
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16074313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1631664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -236,7 +245,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33280507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33280507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -274,7 +283,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pertemuan1/Main.kt">
+    <entry file="file://$PROJECT_DIR$/src/pertemuan2/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
@@ -288,13 +297,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pertemuan2/Other.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pertemuan2/Other.kt" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -302,17 +305,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pertemuan2/ListMain.kt">
+    <entry file="file://$PROJECT_DIR$/src/pertemuan3/ArrayMain.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="318">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pertemuan2/ArrayMain.kt">
+    <entry file="file://$PROJECT_DIR$/src/pertemuan3/ListMain.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="56">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pertemuan4/ConditionMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#loopAndCondition#0" />
+            <element signature="n#!!block;n#whenCondition#0" />
+            <element signature="n#!!block;n#withTwoCondition#0" />
+          </folding>
         </state>
       </provider>
     </entry>

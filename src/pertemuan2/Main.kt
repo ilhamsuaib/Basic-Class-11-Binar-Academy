@@ -1,7 +1,5 @@
 package pertemuan2
 
-import tambah
-
 fun main(args: Array<String>) {
     15.tambah(10)
     jumlah(15, 10)

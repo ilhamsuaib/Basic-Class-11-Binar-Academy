@@ -1,4 +1,4 @@
-
+package pertemuan2
 //extension function
 fun Int.tambah(a: Int) {
     val hasilJumlah = this + a

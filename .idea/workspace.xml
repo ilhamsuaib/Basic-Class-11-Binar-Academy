@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61ab71e8-b133-440e-9ac7-bb6878d11002" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pertemuan2/IntExt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pertemuan2/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/pertemuan2/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan2/IntExtKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan2/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan3/ArrayMainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan3/ListMainKt$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan3/ListMainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan4/ConditionMainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan5/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan5/Laptop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan5/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Inheritance/BangunDatar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Inheritance/Lingkaran.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Inheritance/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Inheritance/PersegiPanjang.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Inheritance/SegiTiga.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Interface/Login$DefaultImpls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Interface/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Interface/LoginImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MyFirstKotlin/pertemuan6/Interface/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan4/ConditionMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan5/Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan5/Laptop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan5/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Inheritance/BangunDatar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Inheritance/Lingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Inheritance/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Inheritance/PersegiPanjang.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Inheritance/SegiTiga.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Interface/Login.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Interface/LoginImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan6/Interface/Main.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +44,7 @@
     <session id="-1783281784">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.13" value="1" />
@@ -40,13 +67,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="42" />
-          <entry key="kt" value="9095" />
+          <entry key="kt" value="9121" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="42" />
-          <entry key="Kotlin" value="9095" />
+          <entry key="Kotlin" value="9121" />
         </counts>
       </usages-collector>
     </session>
@@ -56,22 +83,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/Login.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/LoginImpl.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="200">
+              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/LoginImpl.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -118,8 +145,8 @@
         <option value="$PROJECT_DIR$/src/pertemuan6/Main.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan6/BangunDatar.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan6/Inheritance/BangunDatar.kt" />
-        <option value="$PROJECT_DIR$/src/pertemuan6/Interface/Login.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan6/Interface/Main.kt" />
+        <option value="$PROJECT_DIR$/src/pertemuan6/Interface/Login.kt" />
         <option value="$PROJECT_DIR$/src/pertemuan6/Interface/LoginImpl.kt" />
       </list>
     </option>
@@ -178,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550242232161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550242415696" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -301,7 +328,7 @@
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16801292" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16801292" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,24 +481,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/Login.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="200">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/LoginImpl.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pertemuan6/Interface/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="225">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
